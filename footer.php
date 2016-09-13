@@ -1,0 +1,1 @@
+<p class="foot">&copy; <?php echo date("Y") ?></p>
